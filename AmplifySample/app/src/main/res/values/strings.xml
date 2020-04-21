@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Ipakita</string>
+
+    <!-- Action Bar -->
+    <string name="action_bar_title_sign_in">Sign In</string>
+    <string name="action_bar_title_sign_up">Sign Up</string>
+    <string name="action_bar_title_confirm_account">Confirm Account</string>
+
+    <!-- Progress Bar -->
+    <string name="title_please_wait">Please wait</string>
+    <string name="message_logging_in">Logging in…</string>
+    <string name="message_initializing_user_state">Initializing user state…</string>
+    <string name="message_sign_up">Creating account…</string>
+    <string name="message_evaluate_code">Evaluating Code…</string>
+
+    <!-- Login -->
+    <string name="text_welcome">Welcome to Ipakita!</string>
+    <string name="text_welcome_sub">Your home for finding streams</string>
+    <string name="et_text_username">Username</string>
+    <string name="et_text_password">Password</string>
+    <string name="button_text_login">Login</string>
+    <string name="link_text_create_account">I need an account</string>
+
+    <!-- Main -->
+    <string name="button_text_logout">Logout</string>
+    <string name="text_fetching_token">Fetching idToken…</string>
+
+    <!-- Sign Up -->
+    <string name="text_instructions">Enter the following information</string>
+    <string name="button_text_sign_up">Sign Up</string>
+    <string name="et_text_given_name">Given Name</string>
+    <string name="et_text_email_address">Email Address</string>
+    <string name="et_text_phone_number">Phone Number</string>
+
+    <!-- Verification -->
+    <string name="title_confirm_account">Confirm your account</string>
+    <string name="text_instructions_confirm_email">A confirmation code was sent to %1$s</string>
+    <string name="text_instructions_confirm_email_2">Please enter the code below to confirm your account.</string>
+    <string name="et_text_code">Confirmation Code</string>
+    <string name="button_text_confirm">Confirm</string>
+</resources>
